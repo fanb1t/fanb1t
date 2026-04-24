@@ -119,16 +119,6 @@ I love experimenting, breaking & fixing things (carefully 😄), and delivering 
 
 ---
 
-### 🐍 Contribution Snake
-<div align="center">
-  
-![snake dark](https://raw.githubusercontent.com/fanb1t/fanb1t/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![snake light](https://raw.githubusercontent.com/fanb1t/fanb1t/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-
-</div>
-
----
-
 ### 🧠 LeetCode Stats
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/fanb1t?theme=dark&font=Baloo&ext=heatmap" />
