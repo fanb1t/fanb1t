@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Irfan (pungpangping)</h1>
 <h3 align="center">
-Fullstack Developer | Backend & APIs | DevOps Curious | AI Builder | Mobile Explorer 💫
+Fullstack Developer | Backend & APIs | DevOps Curious | AI Builder  💫
 </h3>
 
 <p align="center">
@@ -135,7 +135,7 @@ I love experimenting, breaking & fixing things (carefully 😄), and delivering 
 ---
 
 ### 📩 Contact Me
-📧 Email: **your@email**
+📧 Email: **fanbueto@email**
 🌐 Portfolio: **coming soon**
 
 ---
