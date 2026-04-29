@@ -119,13 +119,6 @@ I love experimenting, breaking & fixing things (carefully 😄), and delivering 
 
 ---
 
-### 🧠 LeetCode Stats
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/fanb1t?theme=dark&font=Baloo&ext=heatmap" />
-</div>
-
----
-
 ### ✨ Fun Facts
 🔥 Switch across **Frontend → Backend → DevOps → AI → Mobile**  
 🛠 Enjoy building real-world usable systems  
