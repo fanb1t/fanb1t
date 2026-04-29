@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Irfan (pungpangping)</h1>
 <h3 align="center">
-Fullstack Developer | Backend & APIs | DevOps Curious | AI Builder  💫
+Fullstack Developer | Backend & APIs  💫
 </h3>
 
 <p align="center">
