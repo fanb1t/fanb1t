@@ -129,6 +129,6 @@ I love experimenting, breaking & fixing things (carefully 😄), and delivering 
 
 ### 📩 Contact Me
 📧 Email: **fanbueto@email**
-🌐 Portfolio: **coming soon**
+🌐 Portfolio: **https://affanbueto.netlify.app/**
 
 ---
